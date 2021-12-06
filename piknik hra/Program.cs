@@ -43,7 +43,7 @@ namespace piknik_hra
              * je jedno ci vyhra alebo prehra dostane na vyber ci chce pokracovat alebo
              * skoncit. 
              */
-
+            Console.WriteLine("Ahoj, ako sa voláš ? :-)");
 
             
         }
